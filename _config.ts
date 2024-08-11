@@ -14,7 +14,7 @@ import daisyui from "npm:daisyui";
 
 const site = lume({
   src: "./src",
-  location: new URL("eroshevich.me"),
+  location: new URL("https://eroshevich.me"),
 });
 
 site
